@@ -2,7 +2,8 @@
 
 - `svnadmin create foo`
 - `svn import wherever/empty file:///wherever/foo`
-- `cd foo`
+- `svn co file:///wherever/foo bar`
+- `cd bar`
 - `git add .svn`
 - `git commit`
 - `svn add .git`
