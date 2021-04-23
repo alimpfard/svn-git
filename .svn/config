@@ -4,3 +4,6 @@
 	bare = false
 	logallrefupdates = true
 	worktree = /tmp/shit/svn-git/work
+[remote "origin"]
+	url = git@github.com:alimpfard/svn-git.git
+	fetch = +refs/heads/*:refs/remotes/origin/*

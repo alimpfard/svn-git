@@ -1,0 +1,114 @@
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch master
+# Changes to be committed:
+#	new file:   .svn/COMMIT_EDITMSG
+#	new file:   .svn/MERGE_RR
+#	modified:   .svn/config
+#	new file:   .svn/index
+#	new file:   .svn/logs/HEAD
+#	new file:   .svn/logs/refs/heads/master
+#	new file:   .svn/logs/refs/remotes/origin/master
+#	new file:   .svn/objects/10/fa14c5ab0134436e2ae435138bf921eb477c60
+#	new file:   .svn/objects/14/ed0aa42de0f291c0f696922110e70544c3dae2
+#	new file:   .svn/objects/39/9eab1924e39da570b389b0bef1ca713b3b05c3
+#	new file:   .svn/objects/41/42082bcb939bbc17985a69ba748491ac6b62a5
+#	new file:   .svn/objects/48/082f72f087ce7e6fa75b9c41d7387daecd447b
+#	new file:   .svn/objects/49/8b267a8c7812490d6479839c5577eaaec79d62
+#	new file:   .svn/objects/4c/e688d32b7532862767345f2b991ae856f7d4a8
+#	new file:   .svn/objects/56/d73f3eb47256bb7b2a5718ef7b6d1ed36b03d4
+#	new file:   .svn/objects/5b/77ab36d9bf5c8d19584071731b0a7b24e03353
+#	new file:   .svn/objects/60/d22290aa764635ee48e5a7ef3597cec963b8ae
+#	new file:   .svn/objects/6c/bef5c370d8c3486ca85423dd70440c5e0a2aa2
+#	new file:   .svn/objects/6c/cd76a7425d2e016b2a49c9ab828bf4bd544bfa
+#	new file:   .svn/objects/7c/ef8a9250197df95c0f9f6cc2df9560395c3ed1
+#	new file:   .svn/objects/7d/10341fd45caf981447fac431b4b6fec3c71f8c
+#	new file:   .svn/objects/a1/fd29ec14823d8bc4a8d1a2cfe35451580f5118
+#	new file:   .svn/objects/a5/196d1be8fb59edf8062bef36d3a602e0812139
+#	new file:   .svn/objects/a5/d7b84a673458d14d9aab082183a1968c2c7492
+#	new file:   .svn/objects/af/5a0c0018b5e9c04b56ac52f21b4d28f48d99ea
+#	new file:   .svn/objects/b5/8d1184a9d43a39c0d95f32453efc78581877d6
+#	new file:   .svn/objects/c4/d426bc6ee9430ee7813263ce6d5da7ec78c3c6
+#	new file:   .svn/objects/c8/8b2a15165058d5921a3ffd7cdffe9fd5c73f48
+#	new file:   .svn/objects/cb/089cd89a7d7686d284d8761201649346b5aa1c
+#	new file:   .svn/objects/d0/ac6533d579dd293de6555c1f5058823cee4f7b
+#	new file:   .svn/objects/d2/e13d962c4f5cca27e0251fe2ca586d581b0481
+#	new file:   .svn/objects/dd/5816dcffeba07731ce0fb8758ce0c1d39422eb
+#	new file:   .svn/objects/e1/44712c85c055bcf3248ab342592b440a477062
+#	new file:   .svn/objects/e6/9de29bb2d1d6434b8b29ae775ad8c2e48c5391
+#	new file:   .svn/objects/ec/17ec1939b7c3e86b7cb6c0c4de6b0818a7e75e
+#	new file:   .svn/refs/heads/master
+#	new file:   .svn/refs/remotes/origin/master
+#	modified:   .svn/wc.db
+#	new file:   README.md
+#
+# Untracked files:
+#	.svn/objects/04/
+#	.svn/objects/0b/
+#	.svn/objects/0e/
+#	.svn/objects/10/8143d4abe1800329eaade65cbb7eb66323ad60
+#	.svn/objects/17/
+#	.svn/objects/1a/
+#	.svn/objects/1b/
+#	.svn/objects/23/
+#	.svn/objects/2c/
+#	.svn/objects/32/
+#	.svn/objects/35/
+#	.svn/objects/37/
+#	.svn/objects/38/
+#	.svn/objects/39/898367556301dfbc2547c945cd72b02d6ffd78
+#	.svn/objects/41/de21860f4a41473414677096016afebae07db4
+#	.svn/objects/45/
+#	.svn/objects/4a/
+#	.svn/objects/54/
+#	.svn/objects/58/
+#	.svn/objects/5a/
+#	.svn/objects/5c/
+#	.svn/objects/61/
+#	.svn/objects/62/
+#	.svn/objects/67/
+#	.svn/objects/6c/2884d63129db68424338b37580ec546153331f
+#	.svn/objects/71/
+#	.svn/objects/7b/
+#	.svn/objects/7d/e1c534cb3b14f232fe42c48dddaaea79c6833a
+#	.svn/objects/7d/e69d1247dd87116a8ffeac1511271675b65e72
+#	.svn/objects/7f/
+#	.svn/objects/84/
+#	.svn/objects/85/
+#	.svn/objects/87/
+#	.svn/objects/91/
+#	.svn/objects/92/
+#	.svn/objects/93/
+#	.svn/objects/94/
+#	.svn/objects/96/
+#	.svn/objects/a0/
+#	.svn/objects/a1/f6a1b26b9bbba341c5ed481424be0b41549cec
+#	.svn/objects/a2/
+#	.svn/objects/a4/
+#	.svn/objects/ac/
+#	.svn/objects/ad/
+#	.svn/objects/b0/
+#	.svn/objects/b4/
+#	.svn/objects/b5/58235fa77fbc9e56902bc61148d32e42a70755
+#	.svn/objects/b7/
+#	.svn/objects/bb/
+#	.svn/objects/be/
+#	.svn/objects/bf/
+#	.svn/objects/c3/
+#	.svn/objects/c6/
+#	.svn/objects/ca/
+#	.svn/objects/d0/681b40023d70ab3900fb8255c29e41c6b4a47a
+#	.svn/objects/d7/
+#	.svn/objects/db/
+#	.svn/objects/dc/
+#	.svn/objects/de/
+#	.svn/objects/df/
+#	.svn/objects/e0/
+#	.svn/objects/ed/
+#	.svn/objects/ee/
+#	.svn/objects/f3/
+#	.svn/objects/f4/
+#	.svn/objects/fe/
+#
