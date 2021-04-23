@@ -1,3 +1,4 @@
 0000000000000000000000000000000000000000 6ccd76a7425d2e016b2a49c9ab828bf4bd544bfa Ali Mohammad Pur <ali.mpfard@gmail.com> 1619184278 +0430	commit (initial): add svn
 6ccd76a7425d2e016b2a49c9ab828bf4bd544bfa 3f6aed19eb0d39e799187e3f480530fecff66380 Ali Mohammad Pur <ali.mpfard@gmail.com> 1619185004 +0430	commit: add README
 3f6aed19eb0d39e799187e3f480530fecff66380 a818a08c56f2488738aaa08aaa280b61e1d50948 Ali Mohammad Pur <ali.mpfard@gmail.com> 1619185382 +0430	commit: can't forget to checkout via svn :shit:
+a818a08c56f2488738aaa08aaa280b61e1d50948 f8d6ca150a02dc78714bfd603a457fb3ef0de2e8 Ali Mohammad Pur <ali.mpfard@gmail.com> 1619185549 +0430	commit: also import svn's master repo into git :P
